@@ -1,29 +1,29 @@
-# 🍽️ FrigoChef - Application React Native
+# FrigoChef - Application React Native
 
 **FrigoChef** est une application mobile d'aide à la cuisine qui permet aux utilisateurs de scanner leur réfrigérateur et de générer des recettes basées sur les ingrédients détectés. L'application utilise **Clarifai** pour la reconnaissance d'image et **Spoonacular** pour la génération de recettes.
 
 ---
 
-## 🚀 Installation et Exécution
+##  Installation et Exécution
 
-### 📌 **1. Prérequis**
+###  **1. Prérequis**
 Avant de commencer, assure-toi d’avoir installé :
 - [Expo Go](https://expo.dev/) sur ton téléphone
 - Un éditeur de code comme **VS Code**
 - Un simulateur Android/iOS ou un appareil physique avec Expo Go installé
 
-### 📌 **2. Cloner le projet**
+### **2. Cloner le projet**
 ```sh
 git clone https://github.com/TON_NOM_UTILISATEUR/FrigoChef.git
 cd FrigoChef
 ```
 
-### 📌 **3. Installer les dépendances**
+###  **3. Installer les dépendances**
 ```sh
 yarn install
 ```
 
-### 📌 **4. Lancer l’application**
+###  **4. Lancer l’application**
 Si tu utilises **Expo Go** :
 ```sh
 npx expo start
@@ -46,7 +46,7 @@ Une fois la commande exécutée :
 
 ---
 
-## 📩 **Contact**
+##  **Contact**
 💡 Si tu as des questions ou des suggestions :
 - Email : **awudzabelinda@yahoo.com**
 - GitHub : (https://github.com/awudza)
