@@ -14,8 +14,8 @@ Avant de commencer, assure-toi d’avoir installé :
 
 ### **2. Cloner le projet**
 ```sh
-git clone https://github.com/TON_NOM_UTILISATEUR/FrigoChef.git
-cd FrigoChef
+git clone https://github.com/awudza/frigoChef.git
+cd frigoChef
 ```
 
 ###  **3. Installer les dépendances**
@@ -36,7 +36,7 @@ Une fois la commande exécutée :
 
 ---
 
-## 🔗 **Technologies utilisées**
+## **Technologies utilisées**
 - **React Native** - Développement mobile multi-plateforme
 - **Expo** - Simplification du développement et des tests
 - **Clarifai API** - Reconnaissance d’image pour détecter les ingrédients
@@ -47,7 +47,7 @@ Une fois la commande exécutée :
 ---
 
 ##  **Contact**
-💡 Si tu as des questions ou des suggestions :
+ Si tu as des questions ou des suggestions :
 - Email : **awudzabelinda@yahoo.com**
 - GitHub : (https://github.com/awudza)
 - LinkedIn : [Yaa A. Belinda Awudza](https://www.linkedin.com/in/yaa-a-belinda-awudza-811aa6201/))
